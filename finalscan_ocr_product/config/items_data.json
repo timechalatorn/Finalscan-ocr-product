@@ -1,0 +1,67 @@
+{
+    "rubber": {
+        "expected_number": "688929",
+        "roi": {
+            "start": [
+                189,
+                213
+            ],
+            "end": [
+                378,
+                248
+            ]
+        }
+    },
+    "rubber_new": {
+        "expected_number": "688929",
+        "roi": {
+            "start": [
+                210,
+                220
+            ],
+            "end": [
+                374,
+                260
+            ]
+        }
+    },
+    "rubber_today": {
+        "expected_number": "688929",
+        "roi": {
+            "start": [
+                192,
+                199
+            ],
+            "end": [
+                397,
+                250
+            ]
+        }
+    },
+    "rubberff": {
+        "expected_number": "688929",
+        "roi": {
+            "start": [
+                221,
+                196
+            ],
+            "end": [
+                397,
+                240
+            ]
+        }
+    },
+    "finishbro": {
+        "expected_number": "688929",
+        "roi": {
+            "start": [
+                195,
+                164
+            ],
+            "end": [
+                409,
+                214
+            ]
+        }
+    }
+}

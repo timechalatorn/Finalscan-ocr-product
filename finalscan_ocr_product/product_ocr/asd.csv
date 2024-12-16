@@ -1,0 +1,4 @@
+Item ID,Object Name,Timestamp,OCR Result,Status,Image Path
+finishbro,object_1,2024-11-22 15:23:50,F671,NG,captured_images\finishbro_object_1.jpg
+finishbro,object_2,2024-11-22 15:23:55,F671,NG,captured_images\finishbro_object_2.jpg
+finishbro,object_3,2024-11-22 15:23:58,F671,NG,captured_images\finishbro_object_3.jpg
